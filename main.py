@@ -4,7 +4,7 @@ import telebot
 from pytube import YouTube
 
 
-TOKEN = "1275971306:AAH0YlG3n_wdxFUsfZXVTsblkFzq7QS_wgY"
+TOKEN = "<Your TOKEN here>"
 
 bot = telebot.TeleBot(TOKEN, parse_mode="markdown")
 
