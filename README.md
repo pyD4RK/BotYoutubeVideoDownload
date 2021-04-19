@@ -7,4 +7,4 @@
 
 
 
-[Telegram](https://t.me/pyD4RK)
+[Telegram](https://t.me/pyD4RKw)
